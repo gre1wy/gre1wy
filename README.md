@@ -11,7 +11,5 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gre1wy&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gre1wy&theme=darcula&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gre1wy&layout=donut-vertical&theme=darcula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gre1wy&layout=donut-vertical&theme=darcula)]<br/>
 ![Gre1wy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gre1wy&show_icons=true&theme=darcula)
