@@ -11,5 +11,5 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gre1wy&layout=donut-vertical&theme=darcula)]<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gre1wy&layout=donut-vertical&theme=darcula)<br/>
 ![Gre1wy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gre1wy&show_icons=true&theme=darcula)
